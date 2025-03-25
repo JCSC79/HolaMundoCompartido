@@ -6,6 +6,6 @@ public class App {
         System.out.println("Otra línea");
         System.out.println("Saludos desde landra....");
         System.out.println("Soy Emmanuel Un Placer....");
-        System.out.println("como te trata la vida juan ?....");
+        System.out.println("como te trata la vida juan ?, no tienes vacaciones?....");
     }
 }
